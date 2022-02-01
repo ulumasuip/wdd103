@@ -1,6 +1,10 @@
 #content{
     max-width: 1600px;
     margin: 0 auto;
+    text-align: center;
+}
+h1{
+    text-align: center;
 }
 #nav a{
     text-align: center;
@@ -22,9 +26,11 @@
     background-color: #fcfbfb;
 }
 #body {
+    text-align: center;
     background-color: #fcfbfb; 
 }
-#header {
+header {
+    text-align: center;
     background-color:rgba(20,30,13, .7);
 }
 #nav a:hover {
@@ -51,19 +57,22 @@
     background-color: black;
     color: #d9c2a3;
 }
-#footer{
+footer{
+    text-align: center;
     background-color:rgba(20,30,13, .7);
 }
-#footer a{
-    background-color: black;
+footer a{
+    text-align: center;
+    background-color:rgba(20,30,13, .7);
     color: #d9c2a3;
     text-decoration: none;
 }
-#footer a:hover{
+footer a:hover{
     background-color: black;
     color: #d9c2a3;
 }
-#footer h3{
+footer h3{
+    text-align: center;
     background-color: black;
     color: #d9c2a3;
 }
@@ -76,9 +85,11 @@
     color: #d9c2a3;
 }
 .icon {
+    text-align: center;
     width: 80px;
 }
 .logo {
+    text-align: center;
     width: 80px;
 }
-                         
+                  
