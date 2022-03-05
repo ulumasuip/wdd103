@@ -49,7 +49,7 @@ h1{
 }
 #body {
     text-align: center;
-    background-color: #fcfbfb;
+    background-color: #D5573B;
     font-family: "Exo 2", Arial, sans-serif;
     font-size: 22px;
     margin: 0;
@@ -227,4 +227,25 @@ main section img {
     footer {
         margin-top: 25px;
     }
+}
+
+.rivers-card2{
+    margin: 100px 0;
+    margin-left: 0px;
+    grid-column: 3/4;
+    grid-row: 1/3;
+}
+.card-img2 {
+    border: 10px solid #d9c2a3;
+    transition: transform .5s;
+    box-shadow: 5px 5px 10px #6f7364;
+}
+.card-img2 {
+    border: 10px solid #d9c2a3;
+    transition: transform .5s;
+    box-shadow: 5px 5px 10px #6f7364;
+}
+.card-img2:hover {
+    opacity: .6;
+    transform: scale(1.1);
 }
