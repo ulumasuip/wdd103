@@ -35,6 +35,27 @@ section{
 	padding: 5px;
 	font-size: 150%;
 }
+.shows2{
+	border:1px solid #F5DFBB;
+	padding:.5em;margin-bottom:1em;
+    background-color: #3C787E;
+    font-family: Inconsolata;
+	float: left;
+	width: 70%;
+	padding: 30px;
+	font-size: 150%;
+	word-spacing: 50px;
+}
+
+.img3{
+	border:1px solid #F5DFBB;
+	width: 60%;
+	height: auto;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+	
+}
 .img1{
 	border:1px solid #F5DFBB;
 	width: 60%;
