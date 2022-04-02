@@ -24,7 +24,7 @@ div,main{
     font-family: Inconsolata;
 	
 }
-section{
+.section{
 	border:1px solid #F5DFBB;
 	padding:.5em;margin-bottom:1em;
     background-color: #3C787E;
@@ -35,6 +35,30 @@ section{
 	padding: 5px;
 	font-size: 150%;
 }
+.section2{
+	border:1px solid #F5DFBB;
+	padding:.5em;margin-bottom:1em;
+    background-color: #3C787E;
+    font-family: Inconsolata;
+	word-wrap: break-word;
+	float: right;
+	width: 30%;
+	padding: 5px;
+	font-size: 150%;
+}
+
+.section4{
+	border:1px solid #F5DFBB;
+	padding:.5em;margin-bottom:1em;
+    background-color: #3C787E;
+    font-family: Inconsolata;
+	word-wrap: break-word;
+	float: left;
+	width: 30%;
+	padding: 5px;
+	font-size: 150%;
+}
+
 .shows2{
 	border:1px solid #F5DFBB;
 	padding:.5em;margin-bottom:1em;
@@ -64,17 +88,52 @@ section{
   	margin-left: auto;
   	margin-right: auto;
 }
-.column {
+.column{
 	float: left;
 	width: 33.33%;
 	padding: 5px;
 }
-aside{
+
+.section3{
+	border:1px solid #F5DFBB;
+	padding:.5em;margin-bottom:1em;
+    background-color: #3C787E;
+    font-family: Inconsolata;
+	word-wrap: break-word;
+	float: left;
+	width: 30%;
+	padding: 10px;
 	font-size: 150%;
+	
 }
+
 .img2{
 	border:1px solid #F5DFBB;
-	width: 60%;
+	width: 50%;
+	height: auto;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+.img4{
+	border:1px solid #F5DFBB;
+	width: 40%;
+	height: auto;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+.img5{
+	border:1px solid #F5DFBB;
+	width: 50%;
+	height: auto;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+.img6{
+	border:1px solid #F5DFBB;
+	width: 40%;
 	height: auto;
 	display: block;
   	margin-left: auto;
